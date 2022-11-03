@@ -1,1 +1,1 @@
-# Prosper-Loan-Analysis
+### The dataset is a financial dataset related to loans, borrowers, interest rates, lenders e.t.c. Prosper or Prosper Marketplace Inc. is a San Francisco, California based company specializing in loans at low interest rates to the borrowers. Exploratory data analysis was performed on this dataset to see what affects majorly the loan status of borrowers, and appropriate visualizations were used to communicate key findings.
